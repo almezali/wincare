@@ -168,6 +168,13 @@ cd wincare
 ![WinCare Actions](https://github.com/almezali/wincare/blob/main/02-wincare.png)
 *Comprehensive action panel with progress tracking*
 
+### 🧹 Cleaning & Optimization
+![WinCare Cleaning & Optimization](https://github.com/almezali/wincare/blob/main/03-wincare.png)
+*Temporary Files Cleanup - Remove temp files, cache, and logs
+*Browser Cache Cleaning - Clear cache from Chrome, Edge, and Firefox
+*Windows Update Cache - Clean outdated update components
+*Recycle Bin Management - Quick emptying of recycle bin
+
 ## 🎯 Key Features Explained
 
 ### 🤖 Auto Mode
